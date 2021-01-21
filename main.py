@@ -10,7 +10,7 @@ class Main:
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 		;       S P A M  S M S      ;
 		;---------------------------;
-		;       Author : noobie     ;
+		;       Author : Abdul     ;
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 NOTE: This tool's only work for Indonesia number phone.
@@ -32,7 +32,7 @@ NOTE: This tool's only work for Indonesia number phone.
 			import src.olx
 		elif pilih == 5:
 			import src.socil
-		else: print("[!] lihat menu dong(o)");self.menu()
+		else: print("[!] Ada Yang Salah Dengan Pilihan Anda(o)");self.menu()
 
 	def detekos(self):
 		#remove cache
